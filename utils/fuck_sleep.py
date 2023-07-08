@@ -10,7 +10,7 @@ def newersleep_accs() -> int:
         sleep(time)
     return time
 
-def newersleep_accs() -> int:
+def newersleep_aktive() -> int:
     if SLEEP_AKTIVE:
         time = randint(SLEEP_AKTIVE_FROM, SLEEP_AKTIVE_TO)
         sleep(time)
