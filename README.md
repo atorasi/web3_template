@@ -1,1 +1,0 @@
-# Web3 scripts template
